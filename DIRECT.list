@@ -1,3 +1,7 @@
+# DIRECT
+# 指定需要直连的连接
+# logtime: 2024-11-21
+
 # > iqiyis.com观影
 DOMAIN-KEYWORD,iqiyis
 DOMAIN-KEYWORD,cdnlz3
